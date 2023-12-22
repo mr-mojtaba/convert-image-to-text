@@ -1,5 +1,9 @@
-# Converting the Image to Text
+Converting the Image to Text<a name="TOP"></a>
+===================
+
 Convert the Persian and English images to the text with translation.
+
+- - - -
 
 ### Required software (Install in the default path):
 
